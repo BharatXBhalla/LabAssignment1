@@ -1,1 +1,1 @@
-print("This is a new file on Main Branch")
+print("This is a new file on B2 Branch")
